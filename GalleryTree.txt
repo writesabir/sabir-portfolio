@@ -1,0 +1,116 @@
+1) Graphic
+---------------------------------------------------------
+	1) Rajsthan Royals			Atidan		Done
+	2) User Guide APP			Atidan		Done
+	3) Atidan blue PowerPoint 		Atidan		Done
+	4) Services & Solution PowerPoint	Atidan		Done
+	5) QI Spine				Interview	Done
+	6) Altisource Flyer Daylight		Altisource	Done
+	7) Independence Day			Altisource	Done
+	8) Rently Banner			Altisource	Done
+	9) Offers FB				Altisource	Done
+	10) Rent Reminder			Altisource	Done
+	11) Mastek				Banner & Poster	Done
+	12) Xoriant				Interview	Done
+	13  Aptus Health Flyer			Interview     	Done
+	
+
+
+2) Web UI
+----------------------------------------------------------
+	1) GST 					Freelance	Done
+	2) Helly Hensen				Interview	Done
+	3) Employee Engagement Report		Interview 	Done
+	4) SoGoSurvey				Interview	Done
+	5) Altisource WebPage			Altisource	Done
+	6) RHSS Rentals Webpage			Altisource	Done
+	7) RHSS Rentals	Sharepoint Tiles	Altisource	Done
+	8) Rhss Rentals Dashboard		Altisource		Done
+	9) Arman Travels			Freelance		Done	
+	10) Enago				Interview		Done	
+	11) MyHearst				Atidan			Done	
+	12) Fast				Atidan			Done
+	13) Atidan Web Page Blue		Atidan			Done	
+	14) Acme Team 				Atidan			Done
+	15) Accor				Atidan			Done
+	16) SpotLight				Atidan			Done
+	17) Jamanabai Narsee School 2		Atidan			Done
+	18) KNTAC Tourismn			Quasar Freelnace	Done
+	19) Cybergames				Quasar Freelnace	Done
+	20) Giftext Admin Portal		Quasar Freelnace	Done
+	21) Cosmos				Quasar Freelnace	Done
+	22) NCDEX Webpage			Interview		Done
+	23) Crystal Ocean Training		Interview 2option	Done										
+
+
+3) UI/UX
+----------------------------------------------------------
+	1) Real Estate (1 Gray)			jobbook			Done
+	2) Real Estate (2 orange)		jobbook			Done
+	3) Recruitment Agency			Jobbook			Done
+	4) PayrollSystem			Jobbook			Done
+	5) Jobbook Website 	 		Jobbook			Done
+	6) Jobbook Website (wireframe)		Jobbook			Done
+	7) Jobbook Admin-Backend (wireframe)	Jobbook			Done			
+	7) Car Parking				Jobbook			Done		
+	8) Real Home 				Altisource		Done
+
+
+4) Animation
+----------------------------------------------------------
+	1) Quasar				Quasar Freelnace	Done
+	2) Deleela				Quasar Freelance	Done	
+	3) Alzoba				Qusara Freelance	Done
+	4) Corniche				Quasar Freelance	Done
+	5) Lenzing				Quasar Freelance	Done
+	6) Kosmos India
+
+4) Branding & Print
+----------------------------------------------------------
+	1) Ankur Atidan Brochure		Atidan		Done
+	2) About Atidan	Print			Atidan				
+	3) Visiting Card			Atidan		Done
+	4) Atidan SDPS				Atidan		Done
+	5) Atidan Logo				Atidan		Done
+	6) KCC Logo				Atidan		Done
+	7) Banner Long				Atidan		Done
+	8) Support Services 			Atidan		
+	9) NCDEX Brochure			Interview	Done
+	10) DocEx Logo SharePoint		Atidan		Done
+	11) Yoga & Geeta			Atidan		Done		
+	12) Masjide siraj			freelance	Done	
+	13) GST					frelance	Done
+	14) Meka Blood bank			freelance	Done
+	15) Niam Infra				freelance	Done
+	16) Robosoft				freelance	Done		
+	17) Sahil Travels			Freelance	Done
+
+
+5) All work
+---------------------------------------------------------------
+	1)  Jobbook Website			Jobbook			Done		
+	2)  GST Website				Freelance		Done
+	3)  Helly Hansen			Freelance		Done
+	4)  QI SPINE CLINIC			Interview		Done
+	5)  Altisource Real Homes		Altisource		Done
+	6)  Altisource Dashboard		Altisource		Done
+	7)  Covid-19 Banner			Mastek Interview	Done
+	8)  Payroll System			Jobbook			Done
+	9)  Real Estate Jobook			Jobbook			Done
+	10) Crystal Ocean Training Center	Freelance		Done
+	11) Rajasthan Roylas Tablet 		Atidan			Done
+	12) Digital Edge Poster			Birla			Done
+	13) Employee Engagement Report		SSNC 			Done
+	14) Engaging Healthcare Flyer		Aptus Health		Done	
+	15) Digital Edge Poster			Birla			Done
+	16) Fast				Atidan			Done
+	17) GST Branding			Freelance		Done
+	18) Robust Branding			Freelance		Done
+
+
+
+
+
+
+
+								
